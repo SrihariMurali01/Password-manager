@@ -1,8 +1,6 @@
 # Password-manager v1.1
 Password manager application - along with a standalone .exe file!
 
-This is the code for an OFFLINE PASSWORD MANAGER application along with the standalone application which is provided in the Password Manager.rar file
-
 This is the updated version of PASSWORD MANAGER v1.0(availability on demand)
 
 What's New:
