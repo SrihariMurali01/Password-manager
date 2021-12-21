@@ -55,7 +55,7 @@ def save():
 # ---------------------------- UI SETUP ------------------------------- #
 
 window = Tk()
-window.title("Password Manager")
+window.title("Password Manager v1.0")
 window.config(pady=50, padx=50)
 
 canvas = Canvas(width=200, height=200)
